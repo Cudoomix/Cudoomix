@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Cudoomix
+- 👀 I’m interested in data sceince
+- 🌱 I’m currently learning course CS50
